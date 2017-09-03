@@ -4064,3 +4064,17 @@
 			margin-top: 0;
 			padding-top: 0;
 		}
+
+
+		#logo img{
+			width:100%;
+		}
+
+		#logo a{
+			text-decoration: none;
+			border-bottom: none;
+		}
+
+		#sidebar #logo{
+			padding-bottom: 1em;
+		}
