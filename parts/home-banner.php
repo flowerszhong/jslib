@@ -2,7 +2,7 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>Javascript 与 前端框架应用</h1>
+											<h1>JavaScript 与 前端框架应用</h1>
 											<p>零基础 WEB 前端开发教程！</p>
 										</header>
 										<p>随着互联网的不断成熟以及人们越来越多地使用各种移动终端设备访问互联网，WEB 设计师和 WEB 开发者的工作也变得越来越复杂。</p>
