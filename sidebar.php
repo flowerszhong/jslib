@@ -20,39 +20,10 @@
                         <h2>Menu</h2>
                     </header>-->
                     <ul>
-                        <li><a href="<?php echo home_url(); ?>"> ❅   首页</a></li>
-                        <li><a href="<?php echo site_url('/intro.html'); ?>">00 绪论</a></li>
-                        <li><a href="#">01 HTML5&CSS3 基础教学</a></li>
-                        <li><a href="#">02 javascript DOM、事件</a></li>
-                        <li><a href="#">03 jquery 初步使用</a></li>
-                        <li><a href="#">04 jquery 实例讲解</a></li>
-                        <li><a href="#">05 jquery 插件</a></li>
-                        <li><a href="#">06 jquery 源码分析</a></li>
-                        <li><a href="#">07 bootstrap 入门</a></li>
-                        <li><a href="#">08 bootstrap 布局</a></li>
-                        <li><a href="#">09 bootstrap 组件</a></li>
-                        <li><a href="#">10 bootstrap 插件</a></li>
-                        <li><a href="#">11 jquery + bootstrap 实例</a></li>
-                        <li><a href="#">12 高级 CSS 技巧</a></li>
-
-                        <li>
-                            <span class="opener">13 高级 javascript 技巧</span>
-                            <ul>
-                                <li><a href="#">正则表达式</a></li>
-                                <li><a href="#">AJAX</a></li>
-                                <li><a href="#">高性能javascript</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">14 前端构建工具</a></li>
-                        <li>
-                            <span class="opener">15 利用 javascript 开发小游戏</span>
-                            <ul>
-                                <li><a href="#">俄罗斯方块</a></li>
-                                <li><a href="#">贪吃蛇</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">16 制作一个完整的站点</a></li>
-                        <li><a href="#">17 部署站点</a></li>
+                        <li><a href="<?php echo home_url(); ?>"> <i class="fa fa-home"></i>   首页</a></li>
+                        <li><a href="<?php echo site_url('/courses'); ?>"><i class="fa fa-book"></i>  课程</a></li>
+                        <li><a href="<?php echo site_url('/tag/demo'); ?>"><i class="fa fa-bomb"></i>  实例</a></li>
+                        <li><a href="<?php echo site_url('/tag/code'); ?>"><i class="fa fa-file-code-o"></i>  代码</a></li>
                     </ul>
                 </nav>
 
