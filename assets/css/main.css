@@ -4078,3 +4078,16 @@
 		#sidebar #logo{
 			padding-bottom: 1em;
 		}
+
+.archive-title{
+	margin: 20px 0;
+}
+
+
+.post-list article{
+	border-bottom: 1px dashed gray;
+}
+
+.mt20{
+	margin-top: 20px;
+}
