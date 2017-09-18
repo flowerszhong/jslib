@@ -24,6 +24,7 @@
                         <li><a href="<?php echo site_url('/courses'); ?>"><i class="fa fa-book"></i>  课程</a></li>
                         <li><a href="<?php echo site_url('/tag/demo'); ?>"><i class="fa fa-bomb"></i>  实例</a></li>
                         <li><a href="<?php echo site_url('/tag/code'); ?>"><i class="fa fa-file-code-o"></i>  代码</a></li>
+                        <li><a href="<?php echo site_url('/download'); ?>"><i class="fa fa-download"></i> 下载</a></li>
                     </ul>
                 </nav>
 
